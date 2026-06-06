@@ -1,5 +1,3 @@
-# 给孩子点点 Star 吧，求求了，其他项目也可以看看，点点 Star ~
-
 # ARL(灯塔）-docker版(已支持Linux和macos)
 
 本项目基于渊龙团队备份：[ARL](https://github.com/Aabyss-Team/ARL) v2.6.2版本源码，制作成docker镜像进行快速部署。
